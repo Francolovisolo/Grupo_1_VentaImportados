@@ -16,6 +16,7 @@ Juan Navaridas: tengo 28 años. Vivo en Bolívar, pcia. de Buenos Aires, junto a
 
 Moran Gonzalo
 
-Franco Daniel Lovisolo
+Franco Daniel Lovisolo: Tengo 27 años , vivo en San nicolas ,pcia de Buenos aires , junto a mi familia . Actualmente trabajo para mi familia en el rugro de la gastronomia , tengo 2 hermanos uno el cual es chef y el otro es Desarrollador web , empece programacion primero por curiosidad queria saber sobre el tema y luego le fui agarrando afinidad .
+Ya hice un curso de html y css y bueno se me dio la oportunidad de estudiar en digital house para ampliar mis conocimientos en el tema
 
 Julio Cesar Beltran Lopez
