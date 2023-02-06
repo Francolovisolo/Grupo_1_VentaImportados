@@ -4,9 +4,14 @@ Nuestro Proyecto esta enfocado en la venta de productos importados, como ser tel
 El mismo proyecto apunta a todo tipo de consumidores que esten dispuestos a adquirir productos y servicios de buena calidad, ofreciendoles ofertas que sean únicas en el
 mercado y mejorando la experiencia de cada cliente, siempre manteniendo una buena relacion en producto-calidad-precio que brindamos.
 
+Opción 2
+•	Descripción de nuestro e-comerce: Nuestro Proyecto está enfocado en la venta de productos electrónicos importados. Nos destacamos por la buena calidad del servicio y de los productos que brindamos a nuestros clientes .Nos aseguramos que la entrega de los productos sea en los tiempos establecidos y que la experiencia de usuario sea la adecuada. Nuestra visión es ser líder en el segmento manteniendo siempre una buena sinergia entre producto, calidad y precio. 
+
+
 Páginas que nos sirvieron de inspiración: 
-- 
--
+- mercalibre.com
+- myherbalife.com
+- https://www.legis.com.co/
 -
 -
 -
