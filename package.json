@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-dh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "normalize.css": "^8.0.1"
+  }
+}
