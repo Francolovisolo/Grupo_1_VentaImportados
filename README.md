@@ -1,4 +1,7 @@
 # Grupo_1_VentaImportados
+
+Conclusiones Segundo Sprint: Es importante tener una comunicación más fluida en el grupo para definir las tareas y los tiempos para la ejecusión de cada una de las actividades propuestas para cada uno de los sprints.  
+
 Descripción de nuestro e-comerce: Nuestro Proyecto está enfocado en la venta de productos electrónicos importados. Nos destacamos por la buena calidad del servicio y de los productos que brindamos a nuestros clientes. Nos aseguramos que la entrega de los productos sea en los tiempos establecidos y que la experiencia de usuario sea la adecuada. Nuestra visión es ser líder en el segmento manteniendo siempre una buena sinergia entre producto, calidad y precio. 
 
 
